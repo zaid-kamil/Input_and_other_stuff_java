@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Input_and_other_styff_java</string>
+    <string-array name="education">
+        <item>Graduate</item>
+        <item>PostGraduate</item>
+        <item>Masters Degree</item>
+        <item>Uneducated</item>
+    </string-array>
+</resources>
